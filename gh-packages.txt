@@ -1,1 +1,2 @@
-ropensci/plotly@a1613b3e225
+ropensci/plotly
+cpsievert/housing-data-challenge-plotly
