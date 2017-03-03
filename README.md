@@ -1,5 +1,7 @@
 # Shiny Server Development Template
 
+**NOTE TO SELF:** This repo was used to build a docker image which is hosted [here](https://hub.docker.com/r/cpsievert/simple-r-shiny). Also, this image is linked to openshift -- <https://console.preview.openshift.com/console/project/bcviz/overview>
+
 ## Introduction
 
 This repo is intended to be forked and used as a development repo for R applications that use [Shiny](http://shiny.rstudio.com/) as a visualization server.  The code is designed
