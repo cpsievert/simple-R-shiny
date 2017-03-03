@@ -1,2 +1,1 @@
-ropensci/plotly
 cpsievert/housing-data-challenge-plotly
