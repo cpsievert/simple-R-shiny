@@ -96,7 +96,7 @@ RUN wget --no-verbose https://s3.amazonaws.com/rstudio-shiny-server-os-build/ubu
 # Install R packages if required
 #
 # --------------------------------------------------------
-ENV R_LIBS "remotes devtools sf"
+ENV R_LIBS "remotes devtools sf DT"
 RUN if [ "$R_LIBS" ]; \
    then \
    install2.r --error $R_LIBS; \
